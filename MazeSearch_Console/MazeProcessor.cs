@@ -273,18 +273,25 @@
         }
         private void DisplayPAth()
         {
-            Console.Write("\tPath:\n\t\t");
-            foreach (int val in pathDFS)
+            if (pathDFS.Last() == FinalState)
             {
-                Console.Write(val);
-                if (val != pathDFS.Last())
+                Console.Write("\tPath:\n\t\t");
+                foreach (int val in pathDFS)
                 {
-                    Console.Write(" -> ");
+                    Console.Write(val);
+                    if (val != pathDFS.Last())
+                    {
+                        Console.Write(" -> ");
+                    }
+                    else
+                    {
+                        Console.WriteLine("\n");
+                    }
                 }
-                else
-                {
-                    Console.WriteLine("\n");
-                }
+            }
+            else
+            {
+                Console.WriteLine("\tPath NOT found!");
             }
         }
     }

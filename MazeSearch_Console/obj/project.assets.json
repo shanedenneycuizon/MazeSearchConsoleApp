@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shane\\Documents\\SCHOOL FILES\\C2 - CS345 Intelligent Systems\\SearchAct\\MazeSearch_Console\\MazeSearch_Console\\MazeSearch_Console.csproj",
+      "projectUniqueName": "C:\\Users\\Shane\\Documents\\SCHOOL FILES\\C2 - CS345 Intelligent Systems\\SearchAct\\MazeSearchConsoleApp\\MazeSearch_Console\\MazeSearch_Console.csproj",
       "projectName": "MazeSearch_Console",
-      "projectPath": "C:\\Users\\Shane\\Documents\\SCHOOL FILES\\C2 - CS345 Intelligent Systems\\SearchAct\\MazeSearch_Console\\MazeSearch_Console\\MazeSearch_Console.csproj",
+      "projectPath": "C:\\Users\\Shane\\Documents\\SCHOOL FILES\\C2 - CS345 Intelligent Systems\\SearchAct\\MazeSearchConsoleApp\\MazeSearch_Console\\MazeSearch_Console.csproj",
       "packagesPath": "C:\\Users\\Shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shane\\Documents\\SCHOOL FILES\\C2 - CS345 Intelligent Systems\\SearchAct\\MazeSearch_Console\\MazeSearch_Console\\obj\\",
+      "outputPath": "C:\\Users\\Shane\\Documents\\SCHOOL FILES\\C2 - CS345 Intelligent Systems\\SearchAct\\MazeSearchConsoleApp\\MazeSearch_Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shane\\AppData\\Roaming\\NuGet\\NuGet.Config",

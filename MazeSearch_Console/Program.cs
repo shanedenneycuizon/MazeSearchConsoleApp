@@ -4,7 +4,7 @@ string? choice;
 do
 {
     Console.WriteLine("Welcome to Maze Search Console App");
-    Console.WriteLine("- Enter 1 to Start Maze\n- Enter anything to exit");
+    Console.WriteLine("~~ Enter 1 to Start Maze\n~~ Enter anything to exit");
     choice = Console.ReadLine();
     Console.Clear();
     if (choice == "1")
