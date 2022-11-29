@@ -1,0 +1,15 @@
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\bin\Debug\net6.0\MazeSearch_Console.exe
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\bin\Debug\net6.0\MazeSearch_Console.deps.json
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\bin\Debug\net6.0\MazeSearch_Console.runtimeconfig.json
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\bin\Debug\net6.0\MazeSearch_Console.dll
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\bin\Debug\net6.0\MazeSearch_Console.pdb
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.csproj.AssemblyReference.cache
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.AssemblyInfoInputs.cache
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.AssemblyInfo.cs
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.dll
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\refint\MazeSearch_Console.dll
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.pdb
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\MazeSearch_Console.genruntimeconfig.cache
+C:\Users\Shane\Documents\SCHOOL FILES\C2 - CS345 Intelligent Systems\SearchAct\MazeSearch_Console\MazeSearch_Console\obj\Debug\net6.0\ref\MazeSearch_Console.dll
